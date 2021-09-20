@@ -17,6 +17,7 @@
 - It is an introduction to the concepts File descriptors, Static Variables.
 - It is also the first project where I had to create a structure for my code.
 - I used tests created by other people to guide me, find errors and leaks.
+- The "_bonus" files have the same code of the files without "_bonus", the suffix is added to get the bonus evaluation. 
 <p></p>
 <a href = "#content">📋</a>
 
