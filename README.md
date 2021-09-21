@@ -33,6 +33,7 @@
 - VS code
 - WSL ubuntu
 - Norminette 42 (code norm used by école 42)
+- Remote SSH access to iMac for tests.
 <p></p>
 <a href = "#content">📋</a>
 
@@ -105,6 +106,7 @@ void	ft_read_file(int fd)
   - [Get_Next_Line_Tester](https://github.com/Hellio404/Get_Next_Line_Tester) <p></p>
   - [42cursus_gnl_tests](https://github.com/mrjvs/42cursus_gnl_tests) <p></p>
   - [GNL_lover](https://github.com/charMstr/GNL_lover)
+- All tests were done on the browser connect with SSH to an iMac.
 <p></p>
 
 ###### *42 changes the projects from time to time, and the test keep being updated to follow it. So this project may be outdated for the tests.
