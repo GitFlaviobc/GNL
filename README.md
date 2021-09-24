@@ -14,7 +14,7 @@
 
 <a name="intro"/> <h2> Intro </h2> </a>
 - This was my second project at école 42.
-- It is an introduction to the concepts File descriptors, Static Variables.
+- It is an introduction to the concepts File descriptors, Static Variables and read() function.
 - It is also the first project where I had to create a structure for my code.
 - I used tests created by other people to guide me, find errors and leaks.
 - The "_bonus" files have the same code of the files without "_bonus", the suffix is added to get the bonus evaluation. 
@@ -39,7 +39,7 @@
 
 <a name="function"/> <h2> 📚 Functionality </h2> </a>
 
-⚠️🚧 I will add a flow chart of the basic of the function ⚠️🚧
+![Flow Chart](https://github.com/GitFlaviobc/GNL/blob/main/Images/GNL_Flowchart.jpg)
 
 <p></p>
 <a href = "#content">📋</a>
